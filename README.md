@@ -5,3 +5,7 @@ sémantique la transformation de graphe et en utilisant la transformation de mod
 
 Mots Clés : style architectural, pipes et filtres, ingénierie des modèles, méta-modélisation,
 modèle exécutable, sémantique opérationnelle, transformation de graphe.
+
+![](https://github.com/mohamed-gara/xPFL/blob/master/editor.png?raw=true)
+
+![](https://github.com/mohamed-gara/xPFL/blob/master/plugins.png?raw=true)
